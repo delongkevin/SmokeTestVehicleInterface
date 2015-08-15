@@ -1,0 +1,10 @@
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\bin\Debug\SmokeTestVehicleInterface.exe.config
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\bin\Debug\SmokeTestVehicleInterface.exe
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\bin\Debug\SmokeTestVehicleInterface.pdb
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\bin\Debug\SmokeTestVehicleInterface.xml
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\obj\Debug\SmokeTestVehicleInterface.Form1.resources
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\obj\Debug\SmokeTestVehicleInterface.Resources.resources
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\obj\Debug\SmokeTestVehicleInterface.vbproj.GenerateResource.Cache
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\obj\Debug\SmokeTestVehicleInterface.exe
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\obj\Debug\SmokeTestVehicleInterface.xml
+c:\users\delon_000\documents\visual studio 2012\Projects\SmokeTestVehicleInterface\SmokeTestVehicleInterface\obj\Debug\SmokeTestVehicleInterface.pdb
